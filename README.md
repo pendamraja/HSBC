@@ -1,1 +1,1 @@
-# HSBC
+# Currency rates.
